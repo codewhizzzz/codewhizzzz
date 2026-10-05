@@ -1,0 +1,23 @@
+{
+  "extraKnownMarketplaces": {
+    "karpathy-skills": {
+      "source": { "source": "github", "repo": "multica-ai/andrej-karpathy-skills" }
+    },
+    "claude-video": {
+      "source": { "source": "github", "repo": "bradautomates/claude-video" }
+    },
+    "understand-anything": {
+      "source": { "source": "github", "repo": "Lum1104/Understand-Anything" }
+    },
+    "agentmemory": {
+      "source": { "source": "github", "repo": "rohitg00/agentmemory" }
+    }
+  },
+  "enabledPlugins": {
+    "andrej-karpathy-skills@karpathy-skills": true,
+    "watch@claude-video": true,
+    "understand-anything@understand-anything": true,
+    "agentmemory@agentmemory": true,
+    "superpowers@anthropic-plugin-directory": true
+  }
+}
